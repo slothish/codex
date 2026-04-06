@@ -1,6 +1,6 @@
-baseURL = "https://codex.caps.is/"
+baseURL = "https://draft.caps.is/"
 languageCode = "en-us"
-title = "Codex"
+title = "Draft"
 theme = "PaperMod"
 paginate = 10
 
@@ -16,7 +16,7 @@ paginate = 10
   ShowToc = true
 
 [params.homeInfoParams]
-  Title = "Codex"
+  Title = "Draft"
   Content = "Notes on OVMS development, e-Golf CAN bus reverse engineering, and using Claude Code for embedded systems work."
 
 [[params.socialIcons]]
