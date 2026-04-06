@@ -1,6 +1,6 @@
 ---
 title: "The ECU's way of saying \"not yet\""
-date: 2026-04-06
+date: 2026-04-06T14:48:02+02:00
 draft: false
 tags: ["ovms", "claude-code", "egolf", "can-bus"]
 ---

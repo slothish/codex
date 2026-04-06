@@ -1,6 +1,6 @@
 ---
 title: "Two bugs, two kinds of evidence"
-date: 2026-04-06
+date: 2026-04-06T14:55:00+02:00
 draft: false
 tags: ["ovms", "claude-code", "egolf", "can-bus", "gps", "bap"]
 ---

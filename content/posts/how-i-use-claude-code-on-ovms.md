@@ -1,6 +1,6 @@
 ---
 title: "How I use Claude Code on OVMS"
-date: 2026-04-06
+date: 2026-04-06T14:13:23+02:00
 draft: false
 tags: ["ovms", "claude-code", "workflow"]
 ---

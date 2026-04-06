@@ -1,6 +1,6 @@
 ---
 title: "What this is"
-date: 2026-04-06
+date: 2026-04-06T13:49:01+02:00
 draft: false
 tags: ["ovms", "claude-code", "egolf"]
 ---
